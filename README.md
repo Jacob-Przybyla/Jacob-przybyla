@@ -1,5 +1,5 @@
 ### Hi there
-*<h1>Hi, I'm Jacob, an <a href="www.linkedin.com/in/jacob-przybyla-545056293/">IT Professional</a>☺</h1>
+*<h1>Hi, I'm Jacob, an <a href="https://www.linkedin.com/in/jacob-przybyla-545056293/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
